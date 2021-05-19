@@ -10,10 +10,10 @@ Firstly, Website (Fig1), which is meant to make it so the website for which you 
 but also to make that data accessible if you want to search for it (Fig 2) (which you can do by only filling in the website in the Website text box and pressing search, which will make
 the credentials for that website pop up in a prompt window). 
 
-PasswordManager/figures/Figure1.png
+https://github.com/nicolasvilleneuve/PasswordManager/blob/main/figures/Figure1.png
 Figure 1. Website entry field boxed in red. 
 
-PasswordManager/figures/Figure2.png
+https://github.com/nicolasvilleneuve/PasswordManager/blob/main/figures/Figure2.png
 PasswordManager/figures/Figure2.png
 
 
