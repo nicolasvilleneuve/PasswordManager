@@ -5,10 +5,11 @@ A GUI with the ability to generate passwords for you and store them in a file fo
 The following app is very straight forward. 
 You simply run the code, which will in turn, launch a GUI.
 
+
 There are several fields for you to fill in:
 Firstly, Website (Fig1), which is meant to make it so the website for which you are storing information is stored as such, 
-but also to make that data accessible if you want to search for it (Fig 2) (which you can do by only filling in the website in the Website text box and pressing search, which will make
-the credentials for that website pop up in a prompt window). 
+but also to make that data accessible if you want to search for it (Fig 2) (which you can do by only filling in the website in the Website text box and pressing search, which will makethe credentials for that website pop up in a prompt window). 
+
 
 <img src="https://github.com/nicolasvilleneuve/PasswordManager/blob/main/figures/Figure1.png" alt="Figure 1">
 Figure 1. Website entry field boxed in red. 
