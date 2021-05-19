@@ -17,11 +17,15 @@ Figure 1. Website entry field boxed in red.
 Figure 2. Search button boxed in red. 
 
 Secondly, you fill in your desired username in the Email/Username box (exemplified by Fig 3, below). 
+
 <img src="https://github.com/nicolasvilleneuve/PasswordManager/blob/main/figures/Figure3.png" alt="Figure 3">
+Figure 3. The username/email text box boxed in red. 
 
 Then, you fill in your desired password (Fig 4, below), OR, if you would like a STRONG password generated for you, you can press the "Generate Password" button (exemplified by Fig. 5, below). 
+
 <img src="https://github.com/nicolasvilleneuve/PasswordManager/blob/main/figures/Figure4.png" alt="Figure 4">
 Figure 4. Password text box boxed in red. 
+
 <img src="https://github.com/nicolasvilleneuve/PasswordManager/blob/main/figures/Figure5.png" alt="Figure 5">
 Figure 5. Generate password button boxed in red. 
 
