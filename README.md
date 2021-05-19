@@ -12,35 +12,47 @@ the credentials for that website pop up in a prompt window).
 
 <img src="https://github.com/nicolasvilleneuve/PasswordManager/blob/main/figures/Figure1.png" alt="Figure 1">
 Figure 1. Website entry field boxed in red. 
-<br />
+
+
 <img src="https://github.com/nicolasvilleneuve/PasswordManager/blob/main/figures/Figure2.png" alt="Figure 2">
 Figure 2. Search button boxed in red. 
-<br />
+
+
 Secondly, you fill in your desired username in the Email/Username box (exemplified by Fig 3, below). 
-<br />
+
+
 <img src="https://github.com/nicolasvilleneuve/PasswordManager/blob/main/figures/Figure3.png" alt="Figure 3">
 Figure 3. The username/email text box boxed in red. 
-<br />
+
+
 Then, you fill in your desired password (Fig 4, below), OR, if you would like a STRONG password generated for you, you can press the "Generate Password" button (exemplified by Fig. 5, below). 
-<br />
+
+
 <img src="https://github.com/nicolasvilleneuve/PasswordManager/blob/main/figures/Figure4.png" alt="Figure 4">
 Figure 4. Password text box boxed in red. 
-<br />
+
+
 <img src="https://github.com/nicolasvilleneuve/PasswordManager/blob/main/figures/Figure5.png" alt="Figure 5">
 Figure 5. Generate password button boxed in red. 
-<br />
+
+
 After you have filled in all the necessary text fields, you can press add (exemplified by Figure 6) to store that information to a database (which will be named 'passwords.txt').
-<br />
+
+
 <img src="https://github.com/nicolasvilleneuve/PasswordManager/blob/main/figures/Figure6.png" alt="Figure 6">
 Figure 6. The add button boxed in red. 
-<br />
+
+
 In this way, your passwords will be securely stored, so long as you dont have a hacker actively controlling you computer or having access to your files. 
-<br />
+
+
 If you did not fill in all of the text fields, however, you will get an error prompt window, telling you that you need to fill in all of the fields in order to successfully save your data. Such a case may be denoted by Figure 7, below. 
-<br />
+
+
 <img src="https://github.com/nicolasvilleneuve/PasswordManager/blob/main/figures/Figure7.png" alt="Figure 7">
 Figure 7. Prompt in the case of all the fields not being filled in. 
-<br />
+
+
 ## Usage
 You can freely access this app so long as you have a version of python 3 (this was made in python 3.9.1), the tkinter module, the random module, the json module, and the images from the images folder of the presenr repository. With those, you should simply be able to run the code and have a visually-appeasing timer to hold you accountable for/encourage your productivity. 
 
