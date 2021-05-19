@@ -12,10 +12,10 @@ the credentials for that website pop up in a prompt window).
 
 <img src="https://github.com/nicolasvilleneuve/PasswordManager/blob/main/figures/Figure1.png" alt="Figure 1">
 Figure 1. Website entry field boxed in red. 
-
+<br>
 <img src="https://github.com/nicolasvilleneuve/PasswordManager/blob/main/figures/Figure2.png" alt="Figure 2">
 Figure 2. Search button boxed in red. 
-
+<br>
 Secondly, you fill in your desired username in the Email/Username box (exemplified by Fig 3, below). 
 
 <img src="https://github.com/nicolasvilleneuve/PasswordManager/blob/main/figures/Figure3.png" alt="Figure 3">
